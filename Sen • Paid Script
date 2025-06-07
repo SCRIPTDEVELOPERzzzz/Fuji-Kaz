@@ -5,7 +5,7 @@ local whitelist = {
     [3499198980] = true,
     [8440579671] = true,
     [8469575498] = true, -- Added as requested
-    [8558962930] = true, -- New
+    [8435731222] = true, -- New
     [2548119720] = true, -- New
     [8470796004] = true, -- Whitelisted as requested
 }
